@@ -1,0 +1,20 @@
+{
+  "inbounds": [{
+    "port": 16823,
+    "protocol": "vmess",
+    "settings": {
+      "clients": [
+        { "id": "e8a4f5f3-3b92-4d48-8f18-1b4fda5a2a9e", "alterId": 0 },
+        { "id": "5d0c4f8e-9a41-42e2-9b42-3d7292a7a9e1", "alterId": 0 },
+        { "id": "c9d3ef56-6a7b-4d03-97ed-c8a8d4d1f8ef", "alterId": 0 },
+        { "id": "92a7b3d9-4e8c-4f0e-8f67-6b29573b1db7", "alterId": 0 },
+        { "id": "3e6aaf77-cdb7-4ee3-822a-484f0bf34487", "alterId": 0 },
+        { "id": "7d94a532-13f5-4e5a-8d0f-2c1e9f7d8a0b", "alterId": 0 }
+      ]
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom",
+    "settings": {}
+  }]
+}
